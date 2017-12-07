@@ -4,11 +4,11 @@ This repository is created as a place to store and show the results of me follow
 
 ## Table of Contents / Challenges
 
-1. [Starfield](1-starfield)
-1. [Menger Sponge](2-menger-sponge)
-1. [Snake](3-snake)
-1. [Purple Rain](4-purple-rain)
-1. [Invader](5-invader)
+1. <a target="_blank" href="1-starfield/">Starfield</a>
+1. <a target="_blank" href="2-menger-sponge/">Menger Sponge</a>
+1. <a target="_blank" href="3-snake/">Snake</a>
+1. <a target="_blank" href="4-purple-rain/">Purple Rain</a>
+1. <a target="_blank" href="5-invader/">Invader</a>
 
 ## Acknowledgments
 
