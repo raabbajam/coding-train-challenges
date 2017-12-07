@@ -9,6 +9,7 @@ This repository is created as a place to store and show the results of me follow
 1. <a target="_blank" href="3-snake/">Snake</a>
 1. <a target="_blank" href="4-purple-rain/">Purple Rain</a>
 1. <a target="_blank" href="5-invader/">Invader</a>
+1. <a target="_blank" href="6-mitosis/">Mitosis</a>
 
 ## Acknowledgments
 
